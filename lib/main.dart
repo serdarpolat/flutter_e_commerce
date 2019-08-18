@@ -1,4 +1,5 @@
 import 'package:ecommerce_app/pages/explore.dart';
+import 'package:ecommerce_app/pages/search_page.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.lightGreen,
         fontFamily: 'Josefin',
       ),
-      home: ExplorePage(),
+      home: SearchPage(),
     );
   }
 }
