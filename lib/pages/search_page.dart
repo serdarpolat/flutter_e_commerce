@@ -14,7 +14,7 @@ class _SearchPageState extends State<SearchPage> {
 
   Future<List<Product>> fetchProducts() async {
     var url =
-        "https://raw.githubusercontent.com/serdarpolat/random_json/master/products.json";
+        "https://raw.githubusercontent.com/serdarpolat/flutter_e_commerce/master/assets/json/products.json";
     var response = await http.get(url);
 
     var products = List<Product>();
