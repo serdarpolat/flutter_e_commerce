@@ -37,10 +37,7 @@ class _SearchPageState extends State<SearchPage> {
     fetchProducts().then((value) {
       setState(() {
         _products.addAll(value);
-        _productsForDisplay = _products.where((product) {
-          var pt = product.brand;
-          return pt.contains("Apple");
-        }).toList();
+        _productsForDisplay = _products;
       });
     });
   }
