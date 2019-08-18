@@ -1,5 +1,6 @@
 import 'dart:convert';
 
+import 'package:ecommerce_app/data/product_data.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
@@ -131,15 +132,5 @@ class _SearchPageState extends State<SearchPage> {
         ),
       ),
     );
-  }
-}
-
-class Product {
-  String title;
-
-  Product(this.title);
-
-  Product.fromJson(Map<String, dynamic> json) {
-    title = json['title'];
   }
 }
