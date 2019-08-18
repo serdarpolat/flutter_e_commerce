@@ -2,41 +2,101 @@
     {
         "id": "0",
         "title": "iPhone X",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/serdarpolat/flutter_e_commerce/master/assets/images/iphone_x.jpg"
     },
-    {"title": "Apple"},
-    {"title": "Armidillo"},
-    {"title": "Actual"},
-    {"title": "Actuary"},
-    {"title": "America"},
-    {"title": "Argentina"},
-    {"title": "Australia"},
-    {"title": "Antarctica"},
-    {"title": "Blueberry"},
-    {"title": "Cheese"},
-    {"title": "Danish"},
-    {"title": "Eclair"},
-    {"title": "Fudge"},
-    {"title": "Granola"},
-    {"title": "Hazelnut"},
-    {"title": "Ice Cream"},
-    {"title": "Jely"},
-    {"title": "Kiwi Fruit"},
-    {"title": "Lamb"},
-    {"title": "Macadamia"},
-    {"title": "Nachos"},
-    {"title": "Oatmeal"},
-    {"title": "Palm Oil"},
-    {"title": "Quail"},
-    {"title": "Rabbit"},
-    {"title": "Salad"},
-    {"title": "T-Bone Steak"},
-    {"title": "Urid Dal"},
-    {"title": "Vanilla"},
-    {"title": "Waffles"},
-    {"title": "Yam"},
-    {"title": "iPhone X Max"},
-    {"title": "iPhone XS Max"},
-    {"title": "iPhone X"},
-    {"title": "iPhone XS"}
+    {
+        "id": "1",
+        "title": "iPhone XS",
+        "image": "https://raw.githubusercontent.com/serdarpolat/flutter_e_commerce/master/assets/images/iphone_xs.jpg"
+    },
+    {
+        "id": "2",
+        "title": "iPhone XS Max",
+        "image": "https://raw.githubusercontent.com/serdarpolat/flutter_e_commerce/master/assets/images/iphone_xs_max.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Beats by Dre Headset",
+        "image": "https://raw.githubusercontent.com/serdarpolat/flutter_e_commerce/master/assets/images/beats_black.png"
+    },
+    {
+        "id": "4",
+        "title": "Beats by Dre Headset",
+        "image": "https://raw.githubusercontent.com/serdarpolat/flutter_e_commerce/master/assets/images/beats_grey.png"
+    },
+    {
+        "id": "5",
+        "title": "Beats by Dre Headset",
+        "image": "https://raw.githubusercontent.com/serdarpolat/flutter_e_commerce/master/assets/images/beats_pink.png"
+    },
+    {
+        "id": "6",
+        "title": "Backpack",
+        "image": "https://raw.githubusercontent.com/serdarpolat/flutter_e_commerce/master/assets/images/baskpack.png"
+    },
+    {
+        "id": "7",
+        "title": "Desk Lamp",
+        "image": "https://raw.githubusercontent.com/serdarpolat/flutter_e_commerce/master/assets/images/desklamp.png"
+    },
+    {
+        "id": "8",
+        "title": "Electric Kettle",
+        "image": "https://raw.githubusercontent.com/serdarpolat/flutter_e_commerce/master/assets/images/electric_kettle.png"
+    },
+    {
+        "id": "9",
+        "title": "Nike Sweater",
+        "image": "https://raw.githubusercontent.com/serdarpolat/flutter_e_commerce/master/assets/images/nike_sweater.png"
+    },
+    {
+        "id": "10",
+        "title": "Phone Case",
+        "image": "https://raw.githubusercontent.com/serdarpolat/flutter_e_commerce/master/assets/images/phone_case.png"
+    },
+    {
+        "id": "11",
+        "title": "Smart Luggage",
+        "image": "https://raw.githubusercontent.com/serdarpolat/flutter_e_commerce/master/assets/images/smart_luggage.png"
+    },
+    {
+        "id": "12",
+        "title": "Smart Speaker",
+        "image": "https://raw.githubusercontent.com/serdarpolat/flutter_e_commerce/master/assets/images/smart_speaker.png"
+    },
+    {
+        "id": "13",
+        "title": "BeoPlay Speaker",
+        "image": "https://raw.githubusercontent.com/serdarpolat/flutter_e_commerce/master/assets/images/speaker.png"
+    },
+    {
+        "id": "14",
+        "title": "Blue Speaker",
+        "image": "https://raw.githubusercontent.com/serdarpolat/flutter_e_commerce/master/assets/images/speaker_blue.png"
+    },
+    {
+        "id": "15",
+        "title": "Stand Speaker",
+        "image": "https://raw.githubusercontent.com/serdarpolat/flutter_e_commerce/master/assets/images/stand_speaker.png"
+    },
+    {
+        "id": "16",
+        "title": "Sweater",
+        "image": "https://raw.githubusercontent.com/serdarpolat/flutter_e_commerce/master/assets/images/sweater.png"
+    },
+    {
+        "id": "17",
+        "title": "Wrist Watch",
+        "image": "https://raw.githubusercontent.com/serdarpolat/flutter_e_commerce/master/assets/images/watch.png"
+    },
+    {
+        "id": "18",
+        "title": "Wireless Remote",
+        "image": "https://raw.githubusercontent.com/serdarpolat/flutter_e_commerce/master/assets/images/wireless_remote.png"
+    },
+    {
+        "id": "19",
+        "title": "Apple Airpods",
+        "image": "https://raw.githubusercontent.com/serdarpolat/flutter_e_commerce/master/assets/images/airpods.png"
+    }
 ]
